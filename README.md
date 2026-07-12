@@ -1,4 +1,4 @@
-Badr — Web3 Builder Portfolio
+# Badr — Web3 Builder Portfolio
 
 Early contributor, tester, and builder across the Web3 ecosystem.
 This repo is a summary of the projects I've built, tested, and contributed to.

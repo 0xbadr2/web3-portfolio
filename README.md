@@ -10,9 +10,10 @@ X (Twitter): https://x.com/0xBadr2
 GitHub: https://github.com/0xbadr2
 
 
-Projects
 
-Seedio (Shelby Protocol)
+## Projects
+
+## Seedio (Shelby Protocol)
 
 A decentralized file storage app built on Shelby — a decentralized hot storage
 network on the Aptos blockchain. Users connect an Aptos wallet and upload files
@@ -23,7 +24,7 @@ Built on: Shelby Protocol (Aptos)
 Repo: [link once created]
 
 
-ArcLaunch (Arc Testnet)
+## ArcLaunch (Arc Testnet)
 
 A decentralized token launchpad built on Arc Testnet — supports USDC funding,
 whitelisting, and token sales.
@@ -34,7 +35,7 @@ Live Demo: https://arc-launch.vercel.app/
 Repo: https://github.com/0xbadr2/ArcLaunch
 
 
-Testnet Activity
+## Testnet Activity
 
 Actively testing early-stage Web3 protocols, including:
 
@@ -43,7 +44,7 @@ Shelby Protocol (Shelbynet) — file uploads, wallet interaction, faucet testing
 Arc Testnet — smart contract deployment and dApp testing
 
 
-What I Do
+# What I Do
 
 
 Build early-stage dApps and tools
